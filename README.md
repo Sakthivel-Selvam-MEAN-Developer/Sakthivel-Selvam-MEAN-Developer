@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sakthivel-Selvam-MEAN-Developer
 - 👀 I’m interested in ... Machine Learning, Python and AI
 - 🌱 I’m currently learning ... MEAN Stack ( MangoDB, Express.js, Angular and NodeJs )
-- 💞️ I’m looking to collaborate on ... 
+- 💞️ I’m Early Professional in ... Angular FrontEnd Development
 - 📫 How to reach me ... sakthiselvamcs@gmail.com or sakthiselvamcs@outlook.com 
 
 <!---
