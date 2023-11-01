@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sakthivel-Selvam-MEAN-Developer ( Sakthivel Selvam - 2.5 Years Overall Experience )
 - 💞️ I’m Early Professional in ... Angular FrontEnd Development ( 1.5 Years Experience )
 - 👀 I’m interested in ... Full-Stack Development, Machine Learning, Python and AI
-- 🌱 I’m currently learning ... MEAN Stack ( MangoDB, ExpressJs, Angular and NodeJs )
+- 🌱 I’m currently learning ... React and MEAN Stack ( MangoDB, ExpressJs, Angular and NodeJs )
 - 📫 How to reach me ... sakthiselvamcs@gmail.com or sakthiselvamcs@outlook.com
 - 🧑‍💼 Experience ... 6 Months in Each SAP ABAP and Software Testing
 - 💻 Website - https://sakthivel-selvam-mean-developer.github.io/Portfolio/
